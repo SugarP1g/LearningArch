@@ -44,6 +44,8 @@
       - [2. OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
       - [3. GitHub OAuth 第三方登录示例教程](https://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
     - [『OAuth2.0』 猴子都能懂的图解](https://learnku.com/articles/20031)
+  - SSO
+    - [SSO单点登录看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/authority-certification/SSO%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
   - 证书
     - [CA认证和颁发吊销证书](https://www.cnblogs.com/along21/p/7595912.html)
 - **Misc**
