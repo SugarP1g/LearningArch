@@ -17,6 +17,7 @@
   - Kubernetes
     - [kubernetes-handbook](https://jimmysong.io/kubernetes-handbook/)
     - [kubernetes官方文档](https://kubernetes.io/zh/) 
+    - [和我一步步部署 kubernetes 集群](https://k8s-install.opsnull.com/)
 - **代理**
   - Nginx
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
