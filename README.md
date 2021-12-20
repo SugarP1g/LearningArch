@@ -25,6 +25,7 @@
 - **代理**
   - Nginx
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
+    - [APISIX架构分析：如何动态管理Nginx集群？](https://mp.weixin.qq.com/s/DtCyZkFzNKnRBaMnGcUx1Q)
   - Apache Httpd
     - [Apache 教程](https://www.yiibai.com/apache_http)
     - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/)
