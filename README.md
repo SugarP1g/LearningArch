@@ -39,19 +39,21 @@
   - pulsar
     - [pulsar 中文文档](https://pulsar.apache.org/docs/zh-CN/standalone/)
 - **安全设计**
-  - kerberos
-    - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
-    - [KERBEROS PROTOCOL TUTORIAL](https://www.kerberos.org/software/tutorial.html)
-  - LDAP
-    - [LDAP系列（1）：快速搭建 LDAP 服务器](http://guleilab.com/2018/07/24/LDAP1/)
-  - OAuth2
-    - 阮一峰OAuth系列教程
-      - [1. OAuth 2.0 的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
-      - [2. OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
-      - [3. GitHub OAuth 第三方登录示例教程](https://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
-    - [『OAuth2.0』 猴子都能懂的图解](https://learnku.com/articles/20031)
-  - SSO
-    - [SSO单点登录看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/authority-certification/SSO%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
+  - 认证鉴权
+    - [基于PBAC模型构建零信任IAM平台](https://mp.weixin.qq.com/s/OdDfwK7afKzRgX280FgDTg)
+    - kerberos
+      - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
+      - [KERBEROS PROTOCOL TUTORIAL](https://www.kerberos.org/software/tutorial.html)
+    - LDAP
+      - [LDAP系列（1）：快速搭建 LDAP 服务器](http://guleilab.com/2018/07/24/LDAP1/)
+    - OAuth2
+      - 阮一峰OAuth系列教程
+        - [1. OAuth 2.0 的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
+        - [2. OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)
+        - [3. GitHub OAuth 第三方登录示例教程](https://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
+      - [『OAuth2.0』 猴子都能懂的图解](https://learnku.com/articles/20031)
+    - SSO
+      - [SSO单点登录看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/authority-certification/SSO%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86.md)
   - 证书
     - [CA认证和颁发吊销证书](https://www.cnblogs.com/along21/p/7595912.html)
 - **Misc**
