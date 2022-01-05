@@ -41,6 +41,7 @@
 - **安全设计**
   - 认证鉴权
     - [基于PBAC模型构建零信任IAM平台](https://mp.weixin.qq.com/s/OdDfwK7afKzRgX280FgDTg)
+    - [浅谈零信任之访问控制模型](https://www.freebuf.com/articles/network/279497.html)
     - kerberos
       - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
       - [KERBEROS PROTOCOL TUTORIAL](https://www.kerberos.org/software/tutorial.html)
