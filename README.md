@@ -40,6 +40,7 @@
     - [pulsar 中文文档](https://pulsar.apache.org/docs/zh-CN/standalone/)
 - **安全设计**
   - 认证鉴权
+    - [认证鉴权相关的概念](https://docs.authing.cn/v2/concepts/federation.html)    
     - [基于PBAC模型构建零信任IAM平台](https://mp.weixin.qq.com/s/OdDfwK7afKzRgX280FgDTg)
     - [浅谈零信任之访问控制模型](https://www.freebuf.com/articles/network/279497.html)
     - kerberos
