@@ -29,6 +29,9 @@
   - Apache Httpd
     - [Apache 教程](https://www.yiibai.com/apache_http)
     - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/)
+- **监控**
+  - prometheus
+    - [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/)
 - **消息中间件**
   - kafka
     - [kafka官方文档](https://kafka.apache.org/documentation/)
