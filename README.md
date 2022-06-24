@@ -32,6 +32,7 @@
 - **监控**
   - prometheus
     - [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/)
+    - [Prometheus官方文档中文版](https://sheldon-lu.github.io/sheldon_Gitbook/)
 - **消息中间件**
   - kafka
     - [kafka官方文档](https://kafka.apache.org/documentation/)
