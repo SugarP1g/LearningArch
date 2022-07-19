@@ -30,6 +30,8 @@
   - Apache Httpd
     - [Apache 教程](https://www.yiibai.com/apache_http)
     - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/)
+  - APISIX
+    - [apisix 快速入门指南](https://apisix.apache.org/zh/docs/apisix/getting-started/)
 - **监控**
   - prometheus
     - [Prometheus操作指南](https://yunlzheng.gitbook.io/prometheus-book/)
