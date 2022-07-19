@@ -20,6 +20,7 @@
     - [和我一步步部署 kubernetes 集群](https://k8s-install.opsnull.com/)
 - **key-value存储**
   - etcd
+    - [etcd官方文档中文版](https://doczhcn.gitbook.io/etcd/index)
     - [raft一致性算法动画演示](http://thesecretlivesofdata.com/raft/)
     - [Etcd 架构与实现解析](http://jolestar.com/etcd-architecture/)
 - **代理**
