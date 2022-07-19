@@ -24,6 +24,7 @@
     - [Etcd 架构与实现解析](http://jolestar.com/etcd-architecture/)
 - **代理**
   - Nginx
+    - [Nginx 极简教程](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
     - [APISIX架构分析：如何动态管理Nginx集群？](https://mp.weixin.qq.com/s/DtCyZkFzNKnRBaMnGcUx1Q)
   - Apache Httpd
