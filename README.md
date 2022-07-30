@@ -28,6 +28,7 @@
     - [Nginx 极简教程](https://dunwu.github.io/nginx-tutorial/#/nginx-quickstart)
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
     - [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
+    - [Nginx 配置自动生成](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
   - Apache Httpd
     - [Apache 教程](https://www.yiibai.com/apache_http)
     - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/)
