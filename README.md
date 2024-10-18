@@ -1,5 +1,11 @@
 # LearningArch
 
+- **AWS**
+  - IAM
+    - [IAM Policy](https://security.kpingfan.com/01.iam/1.concepts/)
+    - [STS Token](https://security.kpingfan.com/01.iam/2.practices/)
+    - [Role Anywhere](https://security.kpingfan.com/01.iam/3.iam-role-anywhere/)
+    - [IAM Identity Center](https://security.kpingfan.com/01.iam/5.iam-ientity-center/)
 - **Linux**
   - 多路复用IO
     - [epoll原理剖析#1： I/O与等待队列](https://medium.com/@heshaobo2012/epoll%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-1-i-o-d062d47fb07a)
