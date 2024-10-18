@@ -6,6 +6,8 @@
     - [STS Token](https://security.kpingfan.com/01.iam/2.practices/)
     - [Role Anywhere](https://security.kpingfan.com/01.iam/3.iam-role-anywhere/)
     - [IAM Identity Center](https://security.kpingfan.com/01.iam/5.iam-ientity-center/)
+    - [AWS IAM Anywhere 使用 X.509 數位憑證交換 IAM Role session token](https://shazi.info/aws-iam-anywhere-%e4%bd%bf%e7%94%a8-x-509-%e6%95%b8%e4%bd%8d%e6%86%91%e8%ad%89%e4%ba%a4%e6%8f%9b-iam-role-session-token/)
+    - [AWS的无AK实践](https://blog.chengchao.name/2024/03/20/aws-temporary-credentials/)
 - **Linux**
   - 多路复用IO
     - [epoll原理剖析#1： I/O与等待队列](https://medium.com/@heshaobo2012/epoll%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-1-i-o-d062d47fb07a)
