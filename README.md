@@ -23,6 +23,7 @@
   - istio
     - [官方文档](https://istio.io/latest/zh/docs/)
     - [Istio中文教程](https://www.orchome.com/istio/index)
+    - [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)：还没看，有空看看
 - **容器**
   - Docker
     - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/) 
