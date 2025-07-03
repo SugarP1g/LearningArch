@@ -22,12 +22,16 @@
     - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
   - Linux 命令
     - [Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
+
 ## 云原生
+
+- [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)：还没看，有空看看
+
+### 服务网格
 
   - istio
     - [官方文档](https://istio.io/latest/zh/docs/)
     - [Istio中文教程](https://www.orchome.com/istio/index)
-    - [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)：还没看，有空看看
    
 ### 容器
 
