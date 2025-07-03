@@ -17,15 +17,24 @@
     - [epoll原理剖析#2： select & poll](https://medium.com/@heshaobo2012/epoll%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-3-select-poll-8d23b0a12906)
     - [epoll原理剖析#3： epoll](https://medium.com/@heshaobo2012/epoll%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-3-epoll-bf9cdcf5e50)
   - Capabilities
-    - [Linux Capabilities 入门教程：概念篇](https://fuckcloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
+    - [Linux Capabilities 入门教程：概念篇](https://icloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
+    - [Linux Capabilities 入门教程：基础实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-1/)
+    - [Linux Capabilities 入门教程：进阶实战篇](https://icloudnative.io/posts/linux-capabilities-in-practice-2/)
+  - Namespace
+    - [Linux Namespace 基础教程：namespace API](https://icloudnative.io/posts/introduction-to-linux-namespaces-part-1-api/)
   - Cgroup
     - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
+    - [Linux Cgroup 入门教程：基本概念](https://icloudnative.io/posts/understanding-cgroups-part-1-basics/)
+    - [Linux Cgroup 入门教程：CPU](https://icloudnative.io/posts/understanding-cgroups-part-2-cpu/)
+    - [Linux Cgroup 入门教程：内存](https://icloudnative.io/posts/understanding-cgroups-part-3-memory/)
+    - [Linux Cgroup 入门教程：cpuset](https://icloudnative.io/posts/understanding-cgroups-part-4-cpuset/)
   - Linux 命令
     - [Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
 
 ## 云原生
 
 - [云原生之容器安全实践](https://tech.meituan.com/2020/03/12/cloud-native-security.html)：还没看，有空看看
+- [GitOps 介绍](https://icloudnative.io/posts/what-is-gitops/)
 
 ### 服务网格
 
